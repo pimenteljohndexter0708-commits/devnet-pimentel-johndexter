@@ -7,3 +7,7 @@ anytime, not just during formal lessons.
 ## Example (delete this once you add your own)
 - Learned that a function with no `return` still gives back `None`,
   not nothing.
+
+## Sept 25
+- Today I learned about variables, datatypes, conditional statements, loops, lists, and functions. Explaining everything at the top of my head makes it challenging.
+but it is a good practice, to recall everything I've learn in this subject and in the python subject.
