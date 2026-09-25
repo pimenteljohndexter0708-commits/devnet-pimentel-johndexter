@@ -1,24 +1,23 @@
 # Module 1 — Git & GitHub
 
-**Student:** [your name]
-**Date:** [date]
+**Student:** John Dexter Pimentel
+**Date:** 25/09/2026
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-[Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
-
+If you want to be a productive programmer, you would want to use this two. Git is a version control system, it stores your history for you, while the github on the other hand, it shows your project or repository online, it also allows you to collaborate with others. Using this two would make a huge different in your workflow, because you can track everything you are doing. 
 ---
 
 ## Key vocabulary (in your own words)
 
-- repository:
-- commit:
-- branch:
-- push / pull:
-- pull request:
-- merge conflict:
+- repository: Act as your notebook, when you want someone to access your notes, they can just copy or clone your notebook.
+- commit: It saves your project or repository to the your local comuter.
+- branch: Separate space used if you want to work without tampering the main file. 
+- push / pull: Push is for uploading your repo or project into the github where it can be seen by others, while pull is getting all the update.
+- pull request: If you are doing your work on another branch and you want the project owner to see and check your code, you could just send pull request for the owner to see.
+- merge conflict: When you have problem when you are merging the branches.
 
 ---
 
