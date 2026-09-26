@@ -34,7 +34,8 @@ def view_devices(device_list):
     # loop through and print every device — handle empty list
 
     for device in devices:
-        print(device)
+        for i in range(i):
+            print(  i + device)
 
 def count_active_inactive(device_list):
     # loop through, count Active vs Inactive, return both
@@ -55,8 +56,14 @@ def find_device(device_list):
 
 # BONUS (optional)
 def remove_device(device_list):
-    # your code here
-    pass
+
+    rem = input("What do you want to remove? ")
+
+    if rem  in devices:
+        devices.remove(rem)
+    else:
+        print("Not found")
+
 
 def main():
     running = True
@@ -77,6 +84,8 @@ def main():
             count_active_inactive()
         elif opt == 4:
             find_device(devices)
+        elif opt == 5:
+            remove_device(devices)
         else:
             exit
         break
