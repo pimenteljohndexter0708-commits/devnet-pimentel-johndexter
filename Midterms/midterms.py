@@ -34,8 +34,8 @@ def view_devices(device_list):
     # loop through and print every device — handle empty list
 
     for device in devices:
-        for i in range(i):
-            print(  i + device)
+        for i in range(1):
+            print(i, ":",  device)
 
 def count_active_inactive(device_list):
     # loop through, count Active vs Inactive, return both
